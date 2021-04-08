@@ -1,0 +1,9 @@
+GET http://localhost:3003/api/blogs/
+Content-type: application/json
+
+# {
+#     "title": "Neato",
+#     "author": "Jellybean",
+#     "url": "/stuff",
+#     "likes": 30
+# }
